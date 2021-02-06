@@ -5,3 +5,5 @@
 ## :running: [TensorFlow: Advanced Techniques](/TensorFlow:%20Advanced%20Techniques)
 ## :robot: [GYM - Reinforcement Learning](/Reinforcement%20Learning%20-%20GYM)
 
+- [ ] Notebooklarda bulunan `key function`lar çıkartılacak.
+
