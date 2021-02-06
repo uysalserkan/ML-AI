@@ -1,0 +1,3 @@
+[submodule "Machine-Learning-Architectures"]
+	path = Machine-Learning-Architectures
+	url = git@github.com:uysalserkan/Machine-Learning-Architectures
