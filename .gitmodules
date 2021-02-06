@@ -1,3 +1,6 @@
 [submodule "Machine-Learning-Architectures"]
 	path = Machine-Learning-Architectures
 	url = git@github.com:uysalserkan/Machine-Learning-Architectures
+[submodule "OpenCV-Samples"]
+	path = OpenCV-Samples
+	url = git@github.com:uysalserkan/OpenCV-Samples
