@@ -8,4 +8,4 @@
 ## :eye: [OpenCV Samples](https://github.com/uysalserkan/OpenCV-Samples/)
 
 - [ ] Notebooklarda bulunan `key function`lar çıkartılacak.
-
+- [ ] Multi-gpu fonksiyonu oluştur.
