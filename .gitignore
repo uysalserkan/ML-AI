@@ -128,3 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .vscode/settings.json
+
+# .xml files ignored.
+*.xml
+*/idea/*
+/idea/*
+idea/
+*.iml
+"Reinforcement Learning - GYM"/.idea/*
